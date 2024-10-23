@@ -2,13 +2,19 @@
 
 ![GITHUB banner SMALL](https://user-images.githubusercontent.com/46662771/173787262-fe22d912-c99e-4ea3-94b7-6cbc78e8906a.jpg)
 
-I’m currently exploring new technologies, working on side projects, and contributing to **Open Source Projects**.  Aside from this, I spend time doing fun kinds of stuff like listening to music or podcast, playing indoor games, watching random online videos, visiting new places, or learning a new language on Duolingo.
+👋 Hola! I am passionate about trying out new web technologies, contributing to open-source software, and creating technical content/tutorials. 
+
+When I'm not working on exciting side projects, you can find me reading books/articles, or mastering a new language.
+
+I'm excited about using technology to address challenges in the fields of education, biotechnology, renewable energy, and blockchain industry.
+
+Feel free to connect with me—I’m always open to new ideas and collaborations!
 
 <samp>Variety is the spice of life💯</samp>
 
 <a href="https://app.daily.dev/frankiefab100"><img src="https://github.com/frankiefab100/frankiefab100/blob/main/devcard.svg" width="200" alt="Franklin Ohaegbulam's Dev Card"/></a>
 
-### 📒 Latest Blog posts
+### 📒 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [The 12 Books I Have Read In 2023](https://frankiefab.hashnode.dev/the-12-books-i-have-read-in-2023)
@@ -19,7 +25,7 @@ I’m currently exploring new technologies, working on side projects, and contri
 - [Understanding Blockchain Explorers](https://frankiefab100.medium.com/understanding-blockchain-explorers-39a8b436c79f?source=rss-209f88d0d0d1------2)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [More articles...](https://frankiefab.hashnode.dev)
+➡️ [More blog posts...](https://frankiefab.hashnode.dev)
 
 ---
 
