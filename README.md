@@ -1,6 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frankiefab100&label=Profile%20views&color=0e75b6&style=flat" alt="frankiefab100" /> </p>
 
-![GITHUB banner SMALL](https://user-images.githubusercontent.com/46662771/173787262-fe22d912-c99e-4ea3-94b7-6cbc78e8906a.jpg)
+![banner-gif](https://github.com/user-attachments/assets/0bba2330-4c77-41dd-a1a3-4799093efb09)
+
 
 👋 Hola! I am passionate about trying out new web technologies, contributing to open-source software, and creating technical content/tutorials. 
 
