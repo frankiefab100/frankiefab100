@@ -18,7 +18,12 @@ Feel free to connect with me—I’m always open to new ideas and collaborations
 ### 📒 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Understanding Blockchain Explorers](https://frankiefab100.medium.com/understanding-blockchain-explorers-39a8b436c79f?source=rss-209f88d0d0d1------2)
+- [Understanding Blockchain Explorers](https://dev.to/frankiefab100/understanding-blockchain-explorers-5dkj)
+- [What is a blockchain wallet?](https://frankiefab100.medium.com/what-is-a-blockchain-wallet-6e33966b7efa?source=rss-209f88d0d0d1------2)
+- [Introduction to Blockchain Wallet](https://dev.to/frankiefab100/introduction-to-blockchain-wallet-22ip)
+- [What is ReFi? Regenerative Finance Explained](https://frankiefab100.medium.com/today-climate-change-is-one-of-the-most-crucial-challenges-that-humanity-has-ever-faced-and-lots-ac1741301d18?source=rss-209f88d0d0d1------2)
+- [What is ReFi? Regenerative Finance Explained](https://dev.to/frankiefab100/what-is-refi-regenerative-finance-explained-4d1l)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More blog posts...](https://frankiefab.hashnode.dev)
