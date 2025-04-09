@@ -18,4 +18,4 @@ jobs:
         with:
           max_post_count: "6"
           remove_duplicates: true
-          feed_list: "https://frankiefab.hashnode.dev/rss.xml,https://medium.com/feed/@frankiefab100,https://dev.to/feed/frankiefab100"
+          feed_list: "https://frankiefab.hashnode.dev/rss.xml"
