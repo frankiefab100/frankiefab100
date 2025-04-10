@@ -13,9 +13,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Pull in dev.to posts
+      - name: Pull in Hashnode and dev.to posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: "6"
           remove_duplicates: true
-          feed_list: "https://frankiefab.hashnode.dev/rss.xml"
+          feed_list: "https://hashnode.com/@frankiefab100/rss.xml, https://medium.com/feed/@frankiefab100"
