@@ -17,7 +17,12 @@ Feel free to connect with me—I’m always open to new ideas and collaborations
 ### 📒 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Understanding Blockchain Explorers](https://frankiefab100.medium.com/understanding-blockchain-explorers-39a8b436c79f?source=rss-209f88d0d0d1------2)
+- [What is a blockchain wallet?](https://frankiefab100.medium.com/what-is-a-blockchain-wallet-6e33966b7efa?source=rss-209f88d0d0d1------2)
+- [What is ReFi? Regenerative Finance Explained](https://frankiefab100.medium.com/today-climate-change-is-one-of-the-most-crucial-challenges-that-humanity-has-ever-faced-and-lots-ac1741301d18?source=rss-209f88d0d0d1------2)
+- [Internet of Things &lpar;IoT&rpar;: A Revolutionary Technology To Our Social Problems](https://frankiefab100.medium.com/internet-of-things-iot-a-revolutionary-technology-to-our-social-problems-1210df1ccfdb?source=rss-209f88d0d0d1------2)
+- [Learn Blockchain Development By Playing Games](https://frankiefab100.medium.com/learn-blockchain-development-by-playing-games-d142d79248b9?source=rss-209f88d0d0d1------2)
+- [Best Tools and Resources For Self-Taught Developers](https://frankiefab100.medium.com/best-tools-and-resources-for-self-taught-developers-f3e1aa15d65f?source=rss-209f88d0d0d1------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [See more posts...](https://frankiefab.hashnode.dev)
