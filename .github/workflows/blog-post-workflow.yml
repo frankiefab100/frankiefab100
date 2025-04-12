@@ -1,21 +1,26 @@
 name: Latest blog post workflow
 on:
-  schedule: # Run workflow automatically
-    - cron: '0 * * * *' # Runs every hour, on the hour
-  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
-permissions:
-  contents: write # To write the generated contents to the readme
+  schedule:
+    # Runs every hour
+    - cron: "0 * * * *"
+  workflow_dispatch:
 
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-      - name: Pull in Hashnode and dev.to posts
-        uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: actions/checkout@v2
+      - uses: khaosdoctor/blog-post-workflow@master
         with:
-          max_post_count: "6"
-          remove_duplicates: true
-          feed_list: "https://hashnode.com/@frankiefab100/rss.xml, https://medium.com/feed/@frankiefab100"
+          comment_tag_name: HASHNODE
+          feed_list: "https://frankiefab.hashnode.dev/rss.xml"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: FREECODECAMP
+          feed_list: "https://www.freecodecamp.org/news/author/frankiefab100/rss"
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: MEDIUM
+          feed_list: "https://medium.com/feed/@frankiefab100"
+         
