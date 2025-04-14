@@ -86,7 +86,7 @@ Feel free to connect with me—I’m always open to new ideas and collaborations
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="30" height="30"/> 
   </a>
   <a href="https://www.photoshop.com/en" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="30" height="30"/> 
+    <img src="https://img.icons8.com/?id=NeNPFdj7MzXi&format=png&color=000000" alt="photoshop" width="30" height="30"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="30" height="30"/> 
@@ -139,14 +139,11 @@ Feel free to connect with me—I’m always open to new ideas and collaborations
   <a href="https://vitest.dev/" target="_blank">
     <img src="https://vitest.dev/logo.svg" alt="vitest" width="30" height="30"/>
   </a>
-  <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank">
-    <img src="https://images.seeklogo.com/logo-png/43/1/testing-library-logo-png_seeklogo-434973.png" alt="react testing library" width="30" height="30"/>
-  </a>
   <a href="https://railway.app/" target="_blank">
     <img src="https://github.com/simple-icons/simple-icons/blob/master/icons/railway.svg" alt="railway" width="30" height="30"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://images.seeklogo.com/logo-png/31/1/postgresql-logo-png_seeklogo-313278.png" alt="postgresql" width="30" height="30"/>
+    <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="postgresql" width="30" height="30"/>
   </a>
   <a href="https://authjs.dev/" target="_blank">
     <img src="https://camo.githubusercontent.com/f4758620c60f931a2b9bfe132176a2e6dee2cbbb80c713639d4a969ab6100b8e/68747470733a2f2f70726576696577732e6a756d7073686172652e636f6d2f7468756d622f38313562633031623739366464366631373333633935376335616631393439333334623665626631613431636237383263383138663362633833383430343965323531646361366532336330633437373638636137393739366539393036376132343934633961336461393961353036326534353030343134306264363334613037363935343432643631633366663961323139656531323435613230656533" alt="auth.js" width="30" height="30"/>
@@ -155,7 +152,7 @@ Feel free to connect with me—I’m always open to new ideas and collaborations
     <img src="https://jestjs.io/img/jest.png" alt="jest" width="30" height="30"/>
   </a>
   <a href="https://nextjs.org/" target="_blank">
-    <img src="https://images.seeklogo.com/logo-png/44/1/next-js-icon-logo-png_seeklogo-449825.png" alt="next.js" width="30" height="30"/>
+    <img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" alt="next.js" width="30" height="30"/>
   </a>
   <a href="https://strapi.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/withastro/docs/main/public/logos/strapi.svg" alt="strapi" width="30" height="30" />
