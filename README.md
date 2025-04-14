@@ -22,7 +22,8 @@ Feel free to connect with me—I’m always open to new ideas and collaborations
 
 #### FreeCodeCamp
 <!-- FREECODECAMP:START -->
-
+- [How to Build a Countdown Timer with React – A Step-by-Step Guide](https://www.freecodecamp.org/news/build-a-countdown-timer-with-react-step-by-step/)
+- [How to Hide API Keys in Frontend Apps using Netlify Functions](https://www.freecodecamp.org/news/hide-api-keys-in-frontend-apps-using-netlify-functions/)
 <!-- FREECODECAMP:END -->
 
 #### Medium
