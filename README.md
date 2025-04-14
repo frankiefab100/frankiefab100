@@ -14,10 +14,21 @@ Feel free to connect with me—I’m always open to new ideas and collaborations
 <img src="https://github.com/frankiefab100/frankiefab100/blob/main/devcard.svg" width="200" alt="Franklin Ohaegbulam's Daily Dev Card"/>
 </a>
 
-### 📒 Latest Articles
+### 📒 My Latest Blog Posts
+#### Hashnode
+<!-- HASHNODE:START -->
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- HASHNODE:END -->
+
+#### FreeCodeCamp
+<!-- FREECODECAMP:START -->
+
+<!-- FREECODECAMP:END -->
+
+#### Medium
+<!-- MEDIUM:START -->
+
+<!-- MEDIUM:END -->
 
 ➡️ [See more posts...](https://frankiefab.hashnode.dev)
 
