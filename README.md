@@ -40,38 +40,50 @@ Feel free to connect with me—I’m always open to new ideas and collaborations
 ---
 
 <h3 align="left">🤝🏻 Let's Connect</h3>
-<p align="left">
-  <a href="https://www.frankiefab.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="frankiefab100 personal website" height="30" width="30" />
-  </a>
-  <a href="https://twitter.com/frankiefab100" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="frankiefab100" height="30" width="30" />
-  </a>
-  <a href="https://linkedin.com/in/frankiefab100" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="@frankiefab100" height="30" width="30" />
-  </a>
-  <a href="https://dev.to/frankiefab100" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@frankiefab100" height="30" width="30" />
-  </a>
-  <a href="https://codepen.io/frankiefab100" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@frankiefab100" height="30" width="30" />
-  </a>
-  <a href="https://instagram.com/frankiefab100" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@frankiefab100" height="30" width="30" />
-  </a>
-  <a href="https://facebook.com/frankiefab100" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="@frankiefab100" height="30" width="30" />
-  </a>
-  <a href="https://dribbble.com/frankiefab100" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="frankiefab100" height="30" width="30" />
-  </a>
-  <a href="https://www.behance.net/frankiefab100" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="@frankiefab100" height="30" width="30" />
-  </a>
-  <a href="https://medium.com/@frankiefab100" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@frankiefab100" height="30" width="30" />
-  </a>
-</p>
+
+<table>
+<tr>
+  <td align="center">
+    <a href="https://www.frankiefab.com" target="_blank"><img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="30" width="30"></a>
+  </td>
+  <td align="center">
+  <a href="https://twitter.com/frankiefab100" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/x.svg" alt="X" height="30" width="30"></a>
+  </td>
+  <td align="center">
+    <a href="https://linkedin.com/in/frankiefab100" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"></a>
+  </td>
+   <td align="center">
+    <a href="https://bsky.app/profile/frankiefab.bsky.social" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/bluesky.svg" alt="Bluesky" height="30" width="30"></a>
+  </td>
+  <td align="center">
+    <a href="https://youtube.com/@frankiefab" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" alt="YouTube" height="30" width="30"></a>
+  </td>
+  <td align="center">
+    <a href="https://frankiefab.hashnode.dev" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hashnode.svg" alt="Hashnode" height="30" width="30"></a>
+  </td>
+  <td align="center">
+    <a href="https://dev.to/frankiefab100" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="DEV.to" height="30" width="30"></a>
+  </td>
+  <td align="center">
+    <a href="https://codepen.io/frankiefab100" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="CodePen" height="30" width="30"></a>
+  </td>
+  <td align="center">
+    <a href="https://instagram.com/frankiefab100" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="30"></a>
+  </td>
+  <!-- <td align="center">
+    <a href="https://facebook.com/frankiefab100" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="30" width="30"></a>
+  </td> -->
+  <td align="center">
+    <a href="https://dribbble.com/frankiefab100" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="Dribbble" height="30" width="30"></a>
+  </td>
+  <td align="center">
+    <a href="https://www.behance.net/frankiefab100" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="Behance" height="30" width="30"></a>
+  </td>
+  <td align="center">
+    <a href="https://medium.com/@frankiefab100" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="30"></a>
+  </td>
+</tr>
+</table>
 
 <h3 align="left">⚡ Technologies and Tools</h3>
 <p align="left">
