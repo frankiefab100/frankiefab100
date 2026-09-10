@@ -91,7 +91,7 @@ Feel free to connect with me—I’m always open to new ideas and collaborations
 </p>
 
 <h3 align="left">✨ Github Stats</h3>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=frankiefab100&show_icons=true" alt="frankiefab100" /></p>
+<p>&nbsp;<img src="https://github-stats-extended.vercel.app/api?username=frankiefab100&include_all_commits=true&theme=dark_github" alt="frankiefab100 stats" /></p>
 
 <h3 align="left">🌱 Support</h3>
 <a href="https://www.buymeacoffee.com/frankiefab100" target="_blank">
